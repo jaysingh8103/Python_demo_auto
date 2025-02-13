@@ -40,8 +40,8 @@ pipeline {
         stage('Replace Unoptimized Code') {
             steps {
                 echo 'Replacing unoptimized code with optimized code...'
-                sh 'git config user.name "Jenkins"'
-                sh 'git config user.email "jenkins@example.com"'
+                sh 'git config user.name "jaysingh8103"'
+                sh 'git config user.email "jaypals840@gmail.om"'
                 sh 'git add .'
                 sh 'git commit -m "Auto-optimized code via Jenkins pipeline" || true'
                 sh 'git push origin ${BRANCH}'

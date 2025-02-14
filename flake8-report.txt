@@ -1,6 +1,5 @@
 ./bank.py:75:80: E501 line too long (143 > 79 characters)
 ./bank.py:105:80: E501 line too long (92 > 79 characters)
-./generate_report.py:18:1: W391 blank line at end of file
 ./venv/lib/python3.12/site-packages/black/__init__.py:66:80: E501 line too long (84 > 79 characters)
 ./venv/lib/python3.12/site-packages/black/__init__.py:143:80: E501 line too long (84 > 79 characters)
 ./venv/lib/python3.12/site-packages/black/__init__.py:159:80: E501 line too long (84 > 79 characters)

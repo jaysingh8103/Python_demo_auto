@@ -1,10 +1,4 @@
-./main.py:4:1: E302 expected 2 blank lines, found 1
-./main.py:5:3: E111 indentation is not a multiple of 4
-./main.py:7:3: E111 indentation is not a multiple of 4
-./main.py:8:7: E111 indentation is not a multiple of 4
-./main.py:9:7: E111 indentation is not a multiple of 4
-./main.py:10:7: E111 indentation is not a multiple of 4
-./main.py:12:1: E305 expected 2 blank lines after class or function definition, found 1
+./jay.py:10:1: E305 expected 2 blank lines after class or function definition, found 1
 ./venv/lib/python3.12/site-packages/black/__init__.py:66:80: E501 line too long (84 > 79 characters)
 ./venv/lib/python3.12/site-packages/black/__init__.py:143:80: E501 line too long (84 > 79 characters)
 ./venv/lib/python3.12/site-packages/black/__init__.py:159:80: E501 line too long (84 > 79 characters)

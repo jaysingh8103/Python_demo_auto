@@ -2,8 +2,10 @@ import sys
 import json
 import os
 
+
 class Customer:
     Bank_name = "HDFC Bank"
+
     def __init__(self, name, account_num, account_balance=0):
         self.name = name
         self.account_num = account_num
@@ -30,7 +32,7 @@ class Customer:
 
         # Load existing data if the file exists
         if os.path.exists(filename):
-            with open(filename, 'r') as file:
+            with open(filename, "r") as file:
                 try:
                     customer_data = json.load(file)
                 except json.JSONDecodeError:
@@ -46,13 +48,15 @@ class Customer:
                 updated = True
                 break
         if not updated:
-            customer_data.append({
-                "name": self.name,
-                "account_num": self.account_num,
-                "account_balance": self.account_balance
-            })
+            customer_data.append(
+                {
+                    "name": self.name,
+                    "account_num": self.account_num,
+                    "account_balance": self.account_balance,
+                }
+            )
 
-        with open(filename, 'w') as json_file:
+        with open(filename, "w") as json_file:
             json.dump(customer_data, json_file, indent=4)
             print(f"Data saved to {filename}")
 
@@ -60,14 +64,16 @@ class Customer:
     def load_previous_data():
         filename = "data.json"
         if os.path.exists(filename):
-            with open(filename, 'r') as file:
+            with open(filename, "r") as file:
                 try:
                     customer_data = json.load(file)
                     if customer_data:
                         print("\nPrevious Customers Data:")
                         print("=" * 50)
                         for customer in customer_data:
-                            print(f" Name: {customer['name']}, Account Number: {customer['account_num']}, Balance: {customer['account_balance']}")
+                            print(
+                                f" Name: {customer['name']}, Account Number: {customer['account_num']}, Balance: {customer['account_balance']}"
+                            )
                         print("=" * 50)
                     else:
                         print("\nNo previous data found.")
@@ -75,6 +81,8 @@ class Customer:
                     print("\nError reading previous data.")
         else:
             print("\nNo previous data file found.")
+
+
 print("Welcome to", Customer.Bank_name)
 
 
@@ -87,13 +95,15 @@ filename = "data.json"
 existing_balance = 0
 
 if os.path.exists(filename):
-    with open(filename, 'r') as file:
+    with open(filename, "r") as file:
         try:
             customer_data = json.load(file)
             for customer in customer_data:
                 if customer["account_num"] == account_num:
                     existing_balance = customer["account_balance"]
-                    print(f"Welcome back, {name}! Your current balance is: {existing_balance}")
+                    print(
+                        f"Welcome back, {name}! Your current balance is: {existing_balance}"
+                    )
                     break
         except json.JSONDecodeError:
             pass

@@ -1,4 +1,8 @@
-./jay.py:10:1: E305 expected 2 blank lines after class or function definition, found 1
+./bank.py:5:1: E302 expected 2 blank lines, found 1
+./bank.py:7:5: E301 expected 1 blank line, found 0
+./bank.py:70:80: E501 line too long (146 > 79 characters)
+./bank.py:78:1: E305 expected 2 blank lines after class or function definition, found 0
+./bank.py:96:80: E501 line too long (95 > 79 characters)
 ./venv/lib/python3.12/site-packages/black/__init__.py:66:80: E501 line too long (84 > 79 characters)
 ./venv/lib/python3.12/site-packages/black/__init__.py:143:80: E501 line too long (84 > 79 characters)
 ./venv/lib/python3.12/site-packages/black/__init__.py:159:80: E501 line too long (84 > 79 characters)

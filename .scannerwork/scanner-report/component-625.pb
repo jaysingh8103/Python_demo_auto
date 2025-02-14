@@ -1,0 +1,1 @@
+ñ 2pyXhrMvenv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/__init__.py

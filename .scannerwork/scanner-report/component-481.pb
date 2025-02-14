@@ -1,0 +1,1 @@
+á 2pyXŸhrFvenv/lib/python3.12/site-packages/pip/_internal/distributions/sdist.py

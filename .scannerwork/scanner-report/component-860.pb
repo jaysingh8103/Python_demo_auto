@@ -1,0 +1,1 @@
+Ü 2pyXªhr=venv/lib/python3.12/site-packages/pip/_vendor/rich/logging.py

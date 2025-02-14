@@ -1,0 +1,1 @@
+€ 2pyXýhrEvenv/lib/python3.12/site-packages/pip/_vendor/packaging/specifiers.py

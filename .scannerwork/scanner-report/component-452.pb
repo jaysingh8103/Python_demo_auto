@@ -1,0 +1,1 @@
+Ä 2pyXhrCvenv/lib/python3.12/site-packages/pip/_internal/cli/status_codes.py

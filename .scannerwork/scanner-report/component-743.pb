@@ -1,0 +1,1 @@
+ç 2pyX†hrXvenv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py

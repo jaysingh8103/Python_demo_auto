@@ -1,0 +1,1 @@
+Í 2pyXÇhr<venv/lib/python3.12/site-packages/pip/_vendor/rich/syntax.py

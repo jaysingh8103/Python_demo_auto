@@ -1,0 +1,1 @@
+ý 2pyXøhr@venv/lib/python3.12/site-packages/pip/_internal/commands/list.py

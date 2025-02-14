@@ -1,0 +1,1 @@
+š 2pyX…hrDvenv/lib/python3.12/site-packages/pip/_internal/commands/__init__.py

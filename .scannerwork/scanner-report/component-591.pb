@@ -1,0 +1,1 @@
+Ï 2pyX©hrAvenv/lib/python3.12/site-packages/pip/_internal/utils/temp_dir.py

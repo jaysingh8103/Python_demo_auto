@@ -1,0 +1,1 @@
+ 2pyXhr9venv/lib/python3.12/site-packages/platformdirs/version.py

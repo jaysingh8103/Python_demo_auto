@@ -1,0 +1,1 @@
+„ 2pyXãhrBvenv/lib/python3.12/site-packages/pip/_vendor/packaging/_parser.py

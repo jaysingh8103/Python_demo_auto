@@ -1,0 +1,1 @@
+ß 2pyX½hrCvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/connection.py

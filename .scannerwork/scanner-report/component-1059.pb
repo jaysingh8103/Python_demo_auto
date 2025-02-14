@@ -1,0 +1,1 @@
+£ 2pyXÄhrCvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/exceptions.py

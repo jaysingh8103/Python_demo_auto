@@ -1,0 +1,1 @@
+‰ 2pyX’hrLvenv/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/__init__.py

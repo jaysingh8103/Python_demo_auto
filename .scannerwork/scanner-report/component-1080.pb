@@ -1,0 +1,1 @@
+¸ 2pyXŠhrEvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/request.py

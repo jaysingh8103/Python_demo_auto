@@ -1,0 +1,1 @@
+¦ 2pyX4hrTvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py

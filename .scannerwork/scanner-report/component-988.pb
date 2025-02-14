@@ -1,0 +1,1 @@
+Ü 2pyXhrEvenv/lib/python3.12/site-packages/pip/_vendor/requests/__version__.py

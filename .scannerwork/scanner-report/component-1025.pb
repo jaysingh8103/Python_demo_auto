@@ -1,0 +1,1 @@
+Å 2pyXVhrEvenv/lib/python3.12/site-packages/pip/_vendor/packaging/_musllinux.py

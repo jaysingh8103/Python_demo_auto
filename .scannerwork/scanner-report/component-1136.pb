@@ -1,0 +1,1 @@
+ð 2pyXhrRvenv/lib/python3.12/site-packages/pip/_vendor/resolvelib/compat/collections_abc.py

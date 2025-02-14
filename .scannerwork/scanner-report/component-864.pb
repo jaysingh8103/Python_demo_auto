@@ -1,0 +1,1 @@
+à 2pyXŒhr:venv/lib/python3.12/site-packages/pip/_vendor/rich/json.py

@@ -1,0 +1,1 @@
+É 2pyXáhr9venv/lib/python3.12/site-packages/pip/_vendor/rich/box.py

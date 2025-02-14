@@ -1,0 +1,1 @@
+Î 2pyXŽhr[venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py

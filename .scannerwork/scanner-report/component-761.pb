@@ -1,0 +1,1 @@
+ù 2pyX>hrIvenv/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__init__.py

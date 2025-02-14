@@ -1,0 +1,1 @@
+Ý 2pyX8hrAvenv/lib/python3.12/site-packages/pip/_vendor/msgpack/__init__.py

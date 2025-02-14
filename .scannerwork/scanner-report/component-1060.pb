@@ -1,0 +1,1 @@
+¤ 2pyXõhrGvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/connectionpool.py

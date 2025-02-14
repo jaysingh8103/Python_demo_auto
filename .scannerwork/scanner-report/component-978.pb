@@ -1,0 +1,1 @@
+Ò 2pyXžhr=venv/lib/python3.12/site-packages/pip/_vendor/requests/api.py

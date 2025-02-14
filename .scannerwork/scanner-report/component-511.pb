@@ -1,0 +1,1 @@
+ÿ 2pyXnhrBvenv/lib/python3.12/site-packages/pip/_internal/commands/freeze.py

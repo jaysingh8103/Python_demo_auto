@@ -1,0 +1,1 @@
+Û 2pyXðhr?venv/lib/python3.12/site-packages/pip/_internal/req/req_file.py

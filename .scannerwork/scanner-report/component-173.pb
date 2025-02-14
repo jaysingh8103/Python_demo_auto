@@ -1,0 +1,1 @@
+­ 2pyXDhr2venv/lib/python3.12/site-packages/click/globals.py

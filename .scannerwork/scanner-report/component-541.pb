@@ -1,0 +1,1 @@
+ù 2pyXhrBvenv/lib/python3.12/site-packages/pip/_internal/utils/filetypes.py

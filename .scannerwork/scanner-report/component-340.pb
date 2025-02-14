@@ -1,0 +1,1 @@
+Ô 2pyX¦hrCvenv/lib/python3.12/site-packages/pathspec/patterns/gitwildmatch.py

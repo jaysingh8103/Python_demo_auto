@@ -1,0 +1,1 @@
+ó 2pyXhrKvenv/lib/python3.12/site-packages/pip/_vendor/resolvelib/compat/__init__.py

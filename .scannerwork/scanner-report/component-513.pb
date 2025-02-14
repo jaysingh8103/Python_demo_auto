@@ -1,0 +1,1 @@
+Å 2pyXDhrAvenv/lib/python3.12/site-packages/pip/_internal/commands/check.py

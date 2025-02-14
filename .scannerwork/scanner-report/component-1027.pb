@@ -1,0 +1,1 @@
+ƒ 2pyXàhrCvenv/lib/python3.12/site-packages/pip/_vendor/packaging/metadata.py

@@ -1,0 +1,1 @@
+é 2pyX¾hrKvenv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_envs.py

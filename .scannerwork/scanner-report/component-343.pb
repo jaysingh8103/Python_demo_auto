@@ -1,0 +1,1 @@
+× 2pyX‹hr6venv/lib/python3.12/site-packages/pathspec/pathspec.py

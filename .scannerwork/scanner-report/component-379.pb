@@ -1,0 +1,1 @@
+û 2pyXÓhrEvenv/lib/python3.12/site-packages/pip/_internal/network/lazy_wheel.py

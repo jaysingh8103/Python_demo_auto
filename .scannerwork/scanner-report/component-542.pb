@@ -1,0 +1,1 @@
+ž 2pyXihrCvenv/lib/python3.12/site-packages/pip/_internal/utils/virtualenv.py

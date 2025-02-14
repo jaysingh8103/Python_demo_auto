@@ -1,0 +1,1 @@
+Ö 2pyXžhr7venv/lib/python3.12/site-packages/pathspec/gitignore.py

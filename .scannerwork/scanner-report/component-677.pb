@@ -1,0 +1,1 @@
+¥ 2pyXŽhrBvenv/lib/python3.12/site-packages/pip/_vendor/platformdirs/unix.py

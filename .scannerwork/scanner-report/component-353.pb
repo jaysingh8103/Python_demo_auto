@@ -1,0 +1,1 @@
+á 2pyX;hr3venv/lib/python3.12/site-packages/pathspec/_meta.py

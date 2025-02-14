@@ -1,0 +1,1 @@
+°	 2pyXhrFvenv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__init__.py

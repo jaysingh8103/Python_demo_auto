@@ -1,0 +1,1 @@
+þ 2pyXuhr9venv/lib/python3.12/site-packages/pip/_vendor/__init__.py

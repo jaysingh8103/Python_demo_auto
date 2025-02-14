@@ -1,0 +1,1 @@
+¶ 2pyXïhrCvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/retry.py

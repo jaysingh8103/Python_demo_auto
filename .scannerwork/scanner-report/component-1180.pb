@@ -1,0 +1,1 @@
+œ	 2pyXÁhr=venv/lib/python3.12/site-packages/pip/_vendor/distlib/util.py

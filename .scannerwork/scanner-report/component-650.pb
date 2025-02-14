@@ -1,0 +1,1 @@
+Š 2pyX±hrEvenv/lib/python3.12/site-packages/pip/_internal/vcs/versioncontrol.py

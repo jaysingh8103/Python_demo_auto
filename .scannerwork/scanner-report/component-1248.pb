@@ -1,0 +1,1 @@
+à	 2pyXˆhr9venv/lib/python3.12/site-packages/packaging/_manylinux.py

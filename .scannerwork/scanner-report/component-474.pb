@@ -1,0 +1,1 @@
+Ú 2pyX6hrEvenv/lib/python3.12/site-packages/pip/_internal/distributions/base.py

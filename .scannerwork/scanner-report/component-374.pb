@@ -1,0 +1,1 @@
+ö 2pyXÉhrEvenv/lib/python3.12/site-packages/pip/_internal/locations/__init__.py

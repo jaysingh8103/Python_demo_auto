@@ -1,0 +1,1 @@
+¾ 2pyXÃhr<venv/lib/python3.12/site-packages/pip/_internal/build_env.py

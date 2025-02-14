@@ -1,0 +1,1 @@
+œ 2pyXhrMvenv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/_mapping.py

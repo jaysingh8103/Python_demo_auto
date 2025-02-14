@@ -1,0 +1,1 @@
+È 2pyXÝhrGvenv/lib/python3.12/site-packages/pip/_vendor/pkg_resources/__init__.py

@@ -1,0 +1,1 @@
+ú 2pyX¼hrCvenv/lib/python3.12/site-packages/pip/_internal/network/download.py

@@ -1,0 +1,5 @@
+ô
+èThe property 'sonar.login' is deprecated and will be removed in the future. Please use the 'sonar.token' property instead when passing a token.Ï’»©–2€
+—Your code is analyzed as compatible with all Python 3 versions by default. You can get a more precise analysis by setting the exact Python version in your configuration via the parameter "sonar.python.version"–Í»©–2r
+iThere are problems with file encoding in the source code. Please check the scanner logs for more details.¢Ñ…©–2Ø
+•Missing blame information for 1 file. This may lead to some features not working correctly. Please check the analysis logs and refer to <a href="https://docs.sonarsource.com/sonarqube/10.4/analyzing-source-code/scm-integration/" rel="noopener noreferrer" target="_blank">the documentation</a>.µÀÀ©–2

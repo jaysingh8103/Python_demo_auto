@@ -1,0 +1,1 @@
+ø 2pyXŒhrMvenv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/base.py

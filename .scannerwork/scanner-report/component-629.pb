@@ -1,0 +1,1 @@
+õ 2pyXRhrQvenv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/reporter.py

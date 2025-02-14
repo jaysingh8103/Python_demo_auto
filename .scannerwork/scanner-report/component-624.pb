@@ -1,0 +1,1 @@
+ð 2pyXÖhrMvenv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/resolver.py

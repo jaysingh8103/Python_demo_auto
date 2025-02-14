@@ -1,0 +1,1 @@
+† 2pyXøhrIvenv/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/_spdx.py

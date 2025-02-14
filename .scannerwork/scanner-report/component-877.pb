@@ -1,0 +1,1 @@
+í 2pyXFhr@venv/lib/python3.12/site-packages/pip/_vendor/rich/_null_file.py

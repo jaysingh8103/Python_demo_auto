@@ -1,0 +1,1 @@
+Ë 2pyX hrJvenv/lib/python3.12/site-packages/pip/_vendor/truststore/_ssl_constants.py

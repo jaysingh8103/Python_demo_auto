@@ -1,0 +1,1 @@
+ù 2pyXThrPvenv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/pangomarkup.py

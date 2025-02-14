@@ -1,0 +1,1 @@
+î 2pyXIhr@venv/lib/python3.12/site-packages/pip/_vendor/pygments/plugin.py

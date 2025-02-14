@@ -1,0 +1,1 @@
+Õ 2pyX¼hrBvenv/lib/python3.12/site-packages/pip/_vendor/truststore/_macos.py

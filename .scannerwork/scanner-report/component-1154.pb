@@ -1,0 +1,1 @@
+Ç	 2pyXÅhrAvenv/lib/python3.12/site-packages/pip/_vendor/distlib/manifest.py

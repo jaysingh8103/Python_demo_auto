@@ -1,0 +1,1 @@
+Ë 2pyXUhrDvenv/lib/python3.12/site-packages/pip/_internal/utils/entrypoints.py

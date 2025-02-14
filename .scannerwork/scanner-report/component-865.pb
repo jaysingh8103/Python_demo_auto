@@ -1,0 +1,1 @@
+á 2pyXšhrDvenv/lib/python3.12/site-packages/pip/_vendor/rich/terminal_theme.py

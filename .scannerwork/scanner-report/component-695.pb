@@ -1,0 +1,1 @@
+∑ 2pyXÍChr?venv/lib/python3.12/site-packages/pip/_vendor/idna/uts46data.py

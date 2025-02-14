@@ -1,0 +1,1 @@
+ð 2pyXRhrAvenv/lib/python3.12/site-packages/pip/_internal/locations/base.py

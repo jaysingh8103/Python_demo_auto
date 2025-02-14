@@ -1,0 +1,1 @@
+© 2pyX8hr=venv/lib/python3.12/site-packages/pip/_internal/utils/urls.py

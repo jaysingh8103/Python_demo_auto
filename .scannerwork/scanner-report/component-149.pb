@@ -1,0 +1,1 @@
+• 2pyX°hr7venv/lib/python3.12/site-packages/flake8/style_guide.py

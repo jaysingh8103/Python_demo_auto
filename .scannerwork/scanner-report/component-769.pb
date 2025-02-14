@@ -1,0 +1,1 @@
+ 2pyXøhrCvenv/lib/python3.12/site-packages/pip/_vendor/pygments/sphinxext.py

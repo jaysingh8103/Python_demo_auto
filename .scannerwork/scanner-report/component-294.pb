@@ -1,0 +1,1 @@
+¦ 2pyXÎhr0venv/lib/python3.12/site-packages/black/trans.py

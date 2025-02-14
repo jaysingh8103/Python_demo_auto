@@ -1,0 +1,1 @@
+o 2pyX>hrEvenv/lib/python3.12/site-packages/flake8/formatting/_windows_color.py

@@ -1,0 +1,1 @@
+² 2pyX0hrUvenv/lib/python3.12/site-packages/pip/_internal/operations/install/editable_legacy.py

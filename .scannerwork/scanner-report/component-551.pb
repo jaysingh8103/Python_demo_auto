@@ -1,0 +1,1 @@
+§ 2pyXPhr?venv/lib/python3.12/site-packages/pip/_internal/utils/compat.py

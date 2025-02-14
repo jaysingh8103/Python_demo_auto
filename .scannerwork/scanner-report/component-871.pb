@@ -1,0 +1,1 @@
+ç 2pyXqhrAvenv/lib/python3.12/site-packages/pip/_vendor/rich/live_render.py

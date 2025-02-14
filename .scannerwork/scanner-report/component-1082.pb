@@ -1,0 +1,1 @@
+º 2pyX–hrHvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/connection.py

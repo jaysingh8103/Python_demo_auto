@@ -1,0 +1,1 @@
+– 2pyXçhr3venv/lib/python3.12/site-packages/flake8/checker.py

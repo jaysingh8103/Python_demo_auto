@@ -1,0 +1,1 @@
+è 2pyXVhrMvenv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_compat.py

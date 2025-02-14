@@ -1,0 +1,1 @@
+× 2pyXàhrBvenv/lib/python3.12/site-packages/pip/_vendor/rich/progress_bar.py

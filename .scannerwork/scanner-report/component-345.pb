@@ -1,0 +1,1 @@
+Ù 2pyXÖhr5venv/lib/python3.12/site-packages/pathspec/pattern.py

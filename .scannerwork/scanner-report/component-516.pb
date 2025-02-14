@@ -1,0 +1,1 @@
+„ 2pyXŒhrAvenv/lib/python3.12/site-packages/pip/_internal/commands/index.py

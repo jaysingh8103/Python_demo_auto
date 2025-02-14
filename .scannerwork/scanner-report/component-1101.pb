@@ -1,0 +1,1 @@
+Í 2pyXƒhrIvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py

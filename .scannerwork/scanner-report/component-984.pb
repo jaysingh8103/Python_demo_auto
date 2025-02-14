@@ -1,0 +1,1 @@
+Ø 2pyXOhr@venv/lib/python3.12/site-packages/pip/_vendor/requests/compat.py

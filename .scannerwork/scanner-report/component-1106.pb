@@ -1,0 +1,1 @@
+Ò 2pyXhrZvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py

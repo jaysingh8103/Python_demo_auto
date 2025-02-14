@@ -1,0 +1,1 @@
+™ 2pyXƒhrFvenv/lib/python3.12/site-packages/pip/_internal/commands/completion.py

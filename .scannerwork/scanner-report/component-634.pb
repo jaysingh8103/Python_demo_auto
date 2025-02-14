@@ -1,0 +1,1 @@
+ú 2pyX¯hrYvenv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py

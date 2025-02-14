@@ -1,0 +1,1 @@
+ó 2pyXëhrIvenv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__init__.py

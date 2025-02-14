@@ -1,0 +1,5 @@
+{
+    "Flake8": "No critical issues",
+    "Pylint": "Score: 9.5/10",
+    "SonarQube": "Passed with warnings"
+}

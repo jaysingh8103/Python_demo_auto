@@ -1,0 +1,1 @@
+æ 2pyXWhrAvenv/lib/python3.12/site-packages/pip/_internal/metadata/_json.py

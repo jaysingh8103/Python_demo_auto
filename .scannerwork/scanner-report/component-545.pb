@@ -1,0 +1,1 @@
+¡ 2pyXnhrEvenv/lib/python3.12/site-packages/pip/_internal/utils/_jaraco_text.py

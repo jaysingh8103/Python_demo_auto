@@ -1,0 +1,1 @@
+Ê 2pyXÀhrDvenv/lib/python3.12/site-packages/pip/_vendor/rich/default_styles.py

@@ -1,0 +1,1 @@
+« 2pyX½hrKvenv/lib/python3.12/site-packages/pip/_internal/utils/compatibility_tags.py

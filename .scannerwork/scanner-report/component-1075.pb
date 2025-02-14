@@ -1,0 +1,1 @@
+³ 2pyXÞhrJvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/ssltransport.py

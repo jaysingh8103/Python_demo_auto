@@ -1,0 +1,1 @@
+ù 2pyX√hrEvenv/lib/python3.12/site-packages/pip/_vendor/packaging/_tokenizer.py

@@ -1,0 +1,1 @@
+²	 2pyX·hrOvenv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py

@@ -1,0 +1,1 @@
+ô 2pyXÎhrIvenv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/_mapping.py

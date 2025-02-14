@@ -1,0 +1,1 @@
+Â 2pyXñhrCvenv/lib/python3.12/site-packages/pip/_internal/cli/base_command.py

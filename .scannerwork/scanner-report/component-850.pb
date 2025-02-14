@@ -1,0 +1,1 @@
+Ò 2pyXMhrDvenv/lib/python3.12/site-packages/pip/_vendor/rich/_export_format.py

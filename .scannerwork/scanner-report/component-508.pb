@@ -1,0 +1,1 @@
+ü 2pyXáhr@venv/lib/python3.12/site-packages/pip/_internal/commands/show.py

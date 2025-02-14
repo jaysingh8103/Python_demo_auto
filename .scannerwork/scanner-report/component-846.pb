@@ -1,0 +1,1 @@
+Î 2pyXYhr>venv/lib/python3.12/site-packages/pip/_vendor/rich/filesize.py

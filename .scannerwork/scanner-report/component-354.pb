@@ -1,0 +1,1 @@
+â 2pyXMhr6venv/lib/python3.12/site-packages/pathspec/__init__.py

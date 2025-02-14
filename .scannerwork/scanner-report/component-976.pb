@@ -1,0 +1,1 @@
+Ð 2pyX²hr>venv/lib/python3.12/site-packages/pip/_vendor/rich/__init__.py

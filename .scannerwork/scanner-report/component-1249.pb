@@ -1,0 +1,1 @@
+á	 2pyX\hr;venv/lib/python3.12/site-packages/packaging/requirements.py

@@ -1,0 +1,1 @@
+Å	 2pyXàhrAvenv/lib/python3.12/site-packages/pip/_vendor/distlib/metadata.py

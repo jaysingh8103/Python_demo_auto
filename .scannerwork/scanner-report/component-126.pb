@@ -1,0 +1,1 @@
+~ 2pyX+hr<venv/lib/python3.12/site-packages/flake8/plugins/reporter.py

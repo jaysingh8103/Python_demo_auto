@@ -1,0 +1,1 @@
+® 2pyXµhr2venv/lib/python3.12/site-packages/black/linegen.py

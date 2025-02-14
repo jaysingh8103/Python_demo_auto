@@ -1,0 +1,1 @@
+Þ 2pyXhrIvenv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__init__.py

@@ -1,0 +1,1 @@
+¬ 2pyXúhrEvenv/lib/python3.12/site-packages/pip/_vendor/platformdirs/android.py

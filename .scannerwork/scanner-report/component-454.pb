@@ -1,0 +1,1 @@
+Æ 2pyX¬hrDvenv/lib/python3.12/site-packages/pip/_internal/cli/index_command.py

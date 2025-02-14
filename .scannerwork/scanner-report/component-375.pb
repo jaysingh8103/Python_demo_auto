@@ -1,0 +1,1 @@
+÷ 2pyX×hrGvenv/lib/python3.12/site-packages/pip/_internal/locations/_sysconfig.py

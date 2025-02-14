@@ -1,0 +1,1 @@
+½ 2pyXahr;venv/lib/python3.12/site-packages/pip/_vendor/rich/emoji.py

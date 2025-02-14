@@ -1,0 +1,1 @@
+æ 2pyXïhrBvenv/lib/python3.12/site-packages/pip/_internal/index/collector.py

@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /var/lib/jenkins/workspace/ewdd/venv
+set -gx VIRTUAL_ENV '/var/lib/jenkins/workspace/day-2(1)@2/venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
